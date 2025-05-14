@@ -8,4 +8,3 @@ Readme
 5. Run bob_retrieve.py
 6. Done
 
-# Dont forget to run "venv/Scripts/activate"
